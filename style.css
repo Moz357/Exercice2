@@ -1,6 +1,12 @@
-body {
-    background-color: blueviolet;
+body {          /* reprise de l'indentation */
+    background-color: rgb(255, 255, 255);
 } 
-h1 {color: beige;}
 
-h2 {color: #cf7171;}
+h1 {
+    color: beige;
+    background-color: black; /* Fond pour le lol, je suis un gars plein de gaudriole. */
+}
+
+h2 {
+    color: #cf7171;
+}
